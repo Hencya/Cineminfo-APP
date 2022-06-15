@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401877975466",
+    "project_id": "cineminfos",
+    "storage_bucket": "cineminfos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401877975466:android:380336b3cf65c361812bd3",
+        "android_client_info": {
+          "package_name": "com.example.cineminfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401877975466-ls58iv4gle5br4evf0srm2fu2m63163p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cineminfo",
+            "certificate_hash": "62e699a6393d8ab07d33b1b369dde0e9f35433f4"
+          }
+        },
+        {
+          "client_id": "401877975466-cmmf5gu0ivonbtfqbv400nnvg4fatqm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZXmfsZ71gnDUTpwKqfSm2jTFcv-aezs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401877975466-cmmf5gu0ivonbtfqbv400nnvg4fatqm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
